@@ -15,13 +15,13 @@ O objetivo deste projeto é aplicar conceitos essenciais de programação em Pyt
 
 ## Funcionalidades
 
-* **1. Entrada de Veículo:** Cadastra placa, proprietário, modelo, tipo de veículo (carro ou moto) e horário de entrada. Garante a validação de vagas disponíveis e impede duplicidade de placas.
-* **2. Saída de Veículo:** Calcula o tempo de permanência, o valor devido com base na tarifa horária e registra a forma de pagamento.
-* **3. Listagem de Veículos:** Exibe todos os veículos atualmente estacionados.
-* **4. Consulta de Vagas:** Informa a quantidade de vagas disponíveis no momento.
-* **5. Histórico:** Lista todos os atendimentos já concluídos no sistema.
-* **6. Relatório Diário:** Apresenta o total de veículos atendidos, ocupação atual e faturamento bruto acumulado.
-* **7. Encerramento:** Finaliza a execução do programa.
+* **Entrada de Veículo:** Cadastra placa, proprietário, modelo, tipo de veículo (carro ou moto) e horário de entrada. Garante a validação de vagas disponíveis e impede duplicidade de placas.
+* **Saída de Veículo:** Calcula o tempo de permanência, o valor devido com base na tarifa horária e registra a forma de pagamento.
+* **Listagem de Veículos:** Exibe todos os veículos atualmente estacionados.
+* **Consulta de Vagas:** Informa a quantidade de vagas disponíveis no momento.
+* **Histórico:** Lista todos os atendimentos já concluídos no sistema.
+* **Relatório Diário:** Apresenta o total de veículos atendidos, ocupação atual e faturamento bruto acumulado.
+* **Encerramento:** Finaliza a execução do programa.
 
 ---
 
@@ -43,4 +43,3 @@ O objetivo deste projeto é aplicar conceitos essenciais de programação em Pyt
 1. Clone o repositório ou faça o download do código fonte:
    ```bash
    git clone [https://github.com/DanielCossari/Sistema-de-Gerenciamento-de-Estacionamento-Python-.git](https://github.com/DanielCossari/Sistema-de-Gerenciamento-de-Estacionamento-Python-.git)
-   
