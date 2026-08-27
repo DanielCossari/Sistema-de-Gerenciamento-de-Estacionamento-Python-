@@ -32,3 +32,15 @@ O objetivo deste projeto é aplicar conceitos essenciais de programação em Pyt
 | Carro | R$ 5,00 / hora |
 | Moto | R$ 3,00 / hora |
 
+---
+
+## Como Executar
+
+### Pré-requisitos
+* Python 3 instalado no sistema.
+
+### Instruções
+1. Clone o repositório ou faça o download do código fonte:
+   ```bash
+   git clone [https://github.com/DanielCossari/Sistema-de-Gerenciamento-de-Estacionamento-Python-.git](https://github.com/DanielCossari/Sistema-de-Gerenciamento-de-Estacionamento-Python-.git)
+   
