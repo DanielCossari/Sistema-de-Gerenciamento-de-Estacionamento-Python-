@@ -42,4 +42,15 @@ O objetivo deste projeto é aplicar conceitos essenciais de programação em Pyt
 ### Instruções
 1. Clone o repositório ou faça o download do código fonte:
    ```bash
-   git clone [https://github.com/DanielCossari/Sistema-de-Gerenciamento-de-Estacionamento-Python-.git](https://github.com/DanielCossari/Sistema-de-Gerenciamento-de-Estacionamento-Python-.git)
+   git clone https://github.com/DanielCossari/Sistema-de-Gerenciamento-de-Estacionamento-Python-.git
+
+   Acesse a pasta do projeto:
+
+Bash
+cd Sistema-de-Gerenciamento-de-Estacionamento-Python-
+Execute o programa pelo terminal:
+
+Bash
+python estacionamento.py
+Autor
+Desenvolvido por Daniel Cossari.
